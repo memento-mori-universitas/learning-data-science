@@ -1,0 +1,15 @@
+version: 2.0
+
+id: learning-data-science
+
+about:
+  title: Learning Data Science
+  description: A concept to unify statistics, data analysis, machine learning and their related methods" in order to "understand and analyze actual phenomena" with data
+
+contacts:
+  - type: author
+    name: Gonzalo Vazquez
+    email: gonzalovazquez010@gmail.com
+
+priority:
+  - type: low
